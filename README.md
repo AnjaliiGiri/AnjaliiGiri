@@ -8,7 +8,7 @@
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Building+from+scratch;Learning+DSA;Future+System+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=C+Developer;Building+from+scratch;Learning+DSA; Aspiring+System+Architect" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=true&theme=tokyonight" height="170"/>
 </p>
 
 ---
