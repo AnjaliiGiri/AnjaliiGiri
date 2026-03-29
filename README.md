@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&width=440&lines=C+Developer;Aspiring+System+Architect;Building+from+just+a+phone+📱;Dream+Big.+Start+Small.+Act+Now." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&width=440&lines=C+Developer;Aspiring+System+Architect;Building+from+scratch ;Dream+Big.+Start+Small.+Act+Now." alt="Typing SVG" />
 </a>
 </p>
 
@@ -36,7 +36,7 @@
 - 🔭 Currently building projects in C
 - 🌱 Learning Data Structures & Algorithms
 - 🎯 Goal: System Architecture
-- 💡 Building everything from scratch on a phone
+- 💡 Building everything from scratch 
 - 📍 India
 
 ---
