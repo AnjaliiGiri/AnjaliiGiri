@@ -7,8 +7,12 @@
 <h1 align="center">Hi 👋, I'm Anjali Giri</h1>
 
 <!-- ⚡ Typing Animation -->
+<h1 align="center">Hi, I'm Anjali Giri 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=C+Developer;Building+from+scratch;Learning+DSA; Aspiring+System+Architect" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&width=440&lines=C+Developer;Aspiring+System+Architect;Building+from+just+a+phone+📱;Dream+Big.+Start+Small.+Act+Now." alt="Typing SVG" />
+</a>
 </p>
 
 ---
@@ -49,7 +53,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=true&theme=tokyonight" />
 </p>
 ---
 
