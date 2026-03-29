@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Anjali%20Giri&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- 👋 Title -->
-<h1 align="center">Hi 👋, I'm Anjali Giri</h1>
-
 <!-- ⚡ Typing Animation -->
 <h1 align="center">Hi, I'm Anjali Giri 👋</h1>
 
