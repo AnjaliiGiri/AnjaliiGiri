@@ -42,10 +42,14 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+</p>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight" height="170"/><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
 ---
