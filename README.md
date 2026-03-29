@@ -1,6 +1,6 @@
 <!-- 🔥 Custom Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Welcome To%20GitHub&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- ⚡ Typing Animation -->
