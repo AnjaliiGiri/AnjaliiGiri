@@ -49,10 +49,10 @@
 
 ---
 
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
