@@ -2,23 +2,17 @@
 
 <div align="center">
 
-<br>
-
 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Anjali%20Giri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%20Developer%20%7C%20Aspiring%20System%20Architect&descAlignY=55&descColor=ffffff)
 
 
 
-<br>
-
 [
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8A2BE2&center=true&width=500&lines=Building+from+just+a+phone+📱;Learning+one+line+at+a+time...;Dream+Big.+Start+Small.+Act+Now.)
 
 ](https://git.io/typing-svg)
-
-<br>
 
 ---
 
@@ -49,27 +43,35 @@
 
 ### 👩‍💻 About Me
 
-```terminal
-> whoami       : Anjali Giri
-> location     : India 🇮🇳
-> currently    : Building projects in C
-> learning     : DSA + System Programming
-> goal         : System Architecture
+> 📍 India &nbsp;|&nbsp; 🎯 System Architecture &nbsp;|&nbsp; 📱 Coding from phone
 
-📂 Projects
-Project
-Description
-Language
-🏦 Bank Management System
-Console based bank system with file I/O
-C
-💰 Expense Tracker
-Colorful expense tracker with budget alerts
-C
-📊 GitHub Stats
-�
-Load image
-�
-Load image
-�
-```
+- 🔭 Currently building projects in C
+- 🌱 Learning DSA and System Programming
+- 💡 Fun fact: I build everything from just a phone
+
+---
+
+### 📂 Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [🏦 Bank Management System](https://github.com/AnjaliiGiri/bank-system) | Console based bank system with file I/O | C |
+| [💰 Expense Tracker](https://github.com/AnjaliiGiri/expense--tracker-) | Colorful expense tracker with budget alerts | C |
+
+---
+
+### 📊 GitHub Stats
+
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer)
+
+
+
+</div>
