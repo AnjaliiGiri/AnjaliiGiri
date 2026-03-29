@@ -53,6 +53,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight)
+
 ---
 
 <p align="center"><i>"Dream big. Start small. Act now." 🚀</i></p>
