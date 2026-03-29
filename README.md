@@ -1,23 +1,14 @@
-# Hi 👋, I'm Anjali Giri
+<h1 align="center">Hi, I'm Anjali Giri 👋</h1>
 
-<div align="center">
-
-
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Anjali%20Giri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%20Developer%20%7C%20Aspiring%20System%20Architect&descAlignY=55&descColor=ffffff)
-
-
-
-[
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8A2BE2&center=true&width=500&lines=Building+from+just+a+phone+📱;Learning+one+line+at+a+time...;Dream+Big.+Start+Small.+Act+Now.)
-
-](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&width=440&lines=C+Developer;Aspiring+System+Architect;Building+from+just+a+phone+📱;Dream+Big.+Start+Small.+Act+Now." alt="Typing SVG" />
+</a>
+</p>
 
 ---
 
-### ⚡ Tech Stack
-
+### 🛠️ Tech Stack
 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -41,37 +32,30 @@
 
 ---
 
-### 👩‍💻 About Me
-
-> 📍 India &nbsp;|&nbsp; 🎯 System Architecture &nbsp;|&nbsp; 📱 Coding from phone
-
+### 🚀 About Me
 - 🔭 Currently building projects in C
-- 🌱 Learning DSA and System Programming
-- 💡 Fun fact: I build everything from just a phone
+- 🌱 Learning Data Structures & Algorithms
+- 🎯 Goal: System Architecture
+- 💡 Building everything from scratch on a phone
+- 📍 India
 
 ---
 
-### 📂 Projects
-
+### 📂 My Projects
 | Project | Description | Language |
 |---------|-------------|----------|
-| [🏦 Bank Management System](https://github.com/AnjaliiGiri/bank-system) | Console based bank system with file I/O | C |
-| [💰 Expense Tracker](https://github.com/AnjaliiGiri/expense--tracker-) | Colorful expense tracker with budget alerts | C |
+| [Bank Management System](https://github.com/AnjaliiGiri/bank-system) | Console based bank system with file I/O | C |
+| [Expense Tracker](https://github.com/AnjaliiGiri/expense--tracker-) | Colorful expense tracker with budget alerts | C |
 
 ---
 
 ### 📊 GitHub Stats
 
 
-
-![stats](https://github-readme-stats.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 
+---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer)
-
-
-
-</div>
+<p align="center"><i>"Dream big. Start small. Act now." 🚀</i></p>
