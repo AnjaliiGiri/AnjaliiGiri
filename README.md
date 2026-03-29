@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight&hide_border=true)
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight)
 
 
 
