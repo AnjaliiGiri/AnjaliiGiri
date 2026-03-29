@@ -5,6 +5,8 @@
 
 <!-- ⚡ Typing Animation -->
 <h1 align="center">Hi, I'm Anjali Giri 👋</h1>
+<h1 align="center">🚀 C Developer | Aspiring System Architect | Low-Level Builder | C & DSA</h1>
+ 
 
 <p align="center">
 <a href="https://git.io/typing-svg">
