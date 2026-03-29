@@ -43,15 +43,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight"
-       onerror="this.onerror=null; this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight';" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnjaliiGiri&show_icons=true&theme=tokyonight" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight"
-       onerror="this.onerror=null; this.src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight';" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnjaliiGiri&layout=compact&theme=tokyonight" />
 </p>
 ---
 
