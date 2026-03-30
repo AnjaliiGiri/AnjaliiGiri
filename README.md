@@ -35,13 +35,23 @@
 
 ---
 
-## 📂 Projects
+### 📂 Featured Projects
 
-| Project | Description | Language |
-|--------|------------|----------|
-| [Bank Management System](https://github.com/AnjaliiGiri/bank-system) | Console-based system with file I/O | C |
-| [Expense Tracker](https://github.com/AnjaliiGiri/expense-tracker) | Budget tracker with alerts | C |
+🔹 **Bank Management System**
+- Console-based system using file handling
+- Features: account creation, deposit, withdraw
+- 👉 [View Project](https://github.com/AnjaliiGiri/bank-system)
 
+🔹 **Expense Tracker**
+- Tracks daily expenses with alerts
+- File-based storage system
+- 👉 [View Project](https://github.com/AnjaliiGiri/expense-tracker)
+
+🔹 **Cuet Quiz System**
+- Console-based quiz application for CUET preparation
+- Features: multiple-choice questions, scoring system, result display
+- 👉 [View Project](https://github.com/AnjaliiGiri/cuet-quiz)
+  
 ---
 
 ## 📊 GitHub Stats
@@ -70,6 +80,12 @@
   💡 I focus on building strong fundamentals, solving real problems,  
   and growing step-by-step towards becoming a System Architect.
 </p>
+
+---
+
+### 📫 Connect with me
+
+- Email: anjaligiri9691@gmail.com
 
 ---
 
