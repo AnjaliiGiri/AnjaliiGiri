@@ -48,7 +48,7 @@
 🔹 **Expense Tracker**
 - Tracks daily expenses with alerts
 - File-based storage system
-- 👉 [View Project](https://github.com/AnjaliiGiri/expense--tracker)
+- 👉 [View Project](https://github.com/AnjaliiGiri/expense--tracker-)
 
 🔹 **Cuet Quiz System**
 - Console-based quiz application for CUET preparation
