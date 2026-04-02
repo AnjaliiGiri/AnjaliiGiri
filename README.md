@@ -55,10 +55,6 @@
 - Features: multiple-choice questions, scoring system, result display
 - 👉 [View Project](https://github.com/AnjaliiGiri/cuet-quiz)
 
-🔹 **Prompt Engineering Guide**
-- Interactive guide for mastering prompt engineering techniques
-- Built with HTML
-- 👉 [View Project](https://github.com/AnjaliiGiri/prompt-engineering-guide)
 
 🔹 **Student Life Manager**
 - Web-based tool for managing student schedules and tasks
