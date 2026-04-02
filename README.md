@@ -28,6 +28,7 @@
 ## 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -51,7 +52,22 @@
 - Console-based quiz application for CUET preparation
 - Features: multiple-choice questions, scoring system, result display
 - 👉 [View Project](https://github.com/AnjaliiGiri/cuet-quiz)
-  
+
+🔹 **Prompt Engineering Guide**
+- Interactive guide for mastering prompt engineering techniques
+- Built with HTML
+- 👉 [View Project](https://github.com/AnjaliiGiri/prompt-engineering-guide)
+
+🔹 **Student Life Manager**
+- Web-based tool for managing student schedules and tasks
+- Built with HTML
+- 👉 [View Project](https://github.com/AnjaliiGiri/student-life-manager)
+
+🔹 **Portfolio**
+- Personal portfolio website showcasing projects and skills
+- Built with HTML
+- 👉 [View Project](https://github.com/AnjaliiGiri/Portfolio)
+
 ---
 
 ## 📊 GitHub Stats
