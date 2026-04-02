@@ -64,7 +64,7 @@
 🔹 **Portfolio**
 - Personal portfolio website showcasing projects and skills
 - Built with HTML
-- 👉 [View Project](https://github.com/AnjaliiGiri/Portfolio)
+- 👉 [View Project](https://github.com/AnjaliiGiri/portfolio)
 
 ---
 
